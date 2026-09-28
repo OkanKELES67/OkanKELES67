@@ -62,23 +62,6 @@
 
 ---
 
-### 📊 Mes statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OkanKELES67&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Stats GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkanKELES67&layout=compact&hide_border=true&theme=tokyonight" alt="Langages les plus utilisés" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OkanKELES67&hide_border=true&theme=tokyonight" alt="Streak GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OkanKELES67&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophées GitHub" />
-</p>
-
----
-
 ### 🎯 Objectif professionnel
 
 > Devenir **développeur full-stack**, capable de concevoir des applications complètes,
