@@ -11,7 +11,7 @@
 
 - 🎓 En **BUT Informatique** à l'IUT d'Orléans (2024 – 2027)
 - 🔭 Je travaille sur des applications **full-stack** (back-end performant + interfaces intuitives)
-- 🌱 J'apprends en ce moment : **Django**, **React** et l'écosystème **Supabase**
+- 🌱 J'apprends en ce moment : **Django**, **React** 
 - 💬 Parle-moi de : **développement web**, **bases de données**, **jeux vidéo (RTS / Souls-like)** et **jeux de rôle sur table**
 - 🗣️ Langues : Français · Anglais (C1) · Espagnol (A2+)
 - 📫 Me contacter : **kelesokan57@gmail.com**
